@@ -61,4 +61,3 @@ This is very important as you will lose 5 points for every time you do not follo
 ### I'm getting [*insert error*] and I don't know how to fix it.
 
 Please check [StackOverflow](https://stackoverflow.com/) and [Google](https://google.com/) first before asking the teaching staff about OS specific installation issues (because that's likely what we will be doing if asked).
-# CS-4476-project5---Semantic-Segmentation-with-Deep-Learning
